@@ -4,18 +4,19 @@
 Pod::Spec.new do |s|
   s.name             = 'TensorFlowServing-InceptionClient'
   s.version          = '0.0.1'
-  s.summary          = 'A simple demo of TensorFlow Serving with iOS'
+  s.summary          = 'A simple example of how to build an iOS client for TensorFlow Serving'
 
   s.description      = <<-DESC
-    This is a placeholder for the simple demo of TensorFlow Serving. 
-    See the project here:
-    https://github.com/mountaintom/TensorFlowServing-InceptionClient
+    This is a placeholder for the simple demo of TensorFlow Serving.
+    Hopefully this project will make understanding the details to successfully create a client easier for developers.
+    Please follow the link in the Readme file to the real project.
+
                        DESC
 
   s.homepage         = 'https://github.com/mountaintom/Placeholder'
   s.screenshots     =  'https://raw.githubusercontent.com/mountaintom/TensorFlowServing-InceptionClient/master/Screenshot.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Tom Stall' => 'mtm<@>mountaintom<.>com' }
+  s.author           = { 'Tom Stall' }
   s.source           = { :git => 'https://github.com/mountaintom/Placeholder.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
