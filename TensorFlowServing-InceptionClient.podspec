@@ -3,7 +3,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TensorFlowServing-InceptionClient'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'A simple example of how to build an iOS client for TensorFlow Serving'
 
   s.description      = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/mountaintom/Placeholder'
   s.screenshots     =  'https://raw.githubusercontent.com/mountaintom/TensorFlowServing-InceptionClient/master/Screenshot.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Tom Stall' }
+  s.author           = 'Tom Stall' 
   s.source           = { :git => 'https://github.com/mountaintom/Placeholder.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
