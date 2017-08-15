@@ -3,7 +3,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TensorFlowServing-InceptionClient'
-  s.version          = '0.0.3'
+  s.version          = '0.0.5'
   s.summary          = 'A simple example of how to build an iOS client for TensorFlow Serving'
 
   s.description      = <<-DESC

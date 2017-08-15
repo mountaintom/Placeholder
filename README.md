@@ -5,18 +5,22 @@
 [![License](https://img.shields.io/cocoapods/l/TensorFlowServing-InceptionClient.svg?style=flat)](http://cocoapods.org/pods/TensorFlowServing-InceptionClient)
 [![Platform](https://img.shields.io/cocoapods/p/TensorFlowServing-InceptionClient.svg?style=flat)](http://cocoapods.org/pods/TensorFlowServing-InceptionClient)
 
-A simple demo of TensorFlow Serving on iOS
+A simple example of how to build an iOS client for TensorFlow Serving. Hopfully, this will help developers understand
+how to build clients and be a good starting point for building their own iOS projects.
+
 ## Please Note
 This is a placeholder for the real project that is here:
 https://github.com/mountaintom/TensorFlowServing-InceptionClient
 
 The demo works great if you clone the project and do a "pod install" from the Example directory. 
 
-However, because of impossible to fandom combinations of moving, mangling and directory tree flattening by Cocoapods, 
+However, because of impossible to fathom combinations of moving, mangling and directory tree flattening by Cocoapods, 
 I have not been able to get it to compile as a Cocoapod, yet. The real project will be placed here when the code is cracked.
  
-
 ![alt text](https://raw.githubusercontent.com/mountaintom/TensorFlowServing-InceptionClient/master/Screenshot.png "Inception Demo Client")
+
+The production level support iOS support for gRPC and Protocol Buffers is in Objective-C. There is experimental support for Swift. 
+I will try the experimental tools to build a Swift version in addition to this project.
 
 ## Example
 
