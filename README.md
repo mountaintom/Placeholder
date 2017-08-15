@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/TensorFlowServing-InceptionClient.svg?style=flat)](http://cocoapods.org/pods/TensorFlowServing-InceptionClient)
 [![Platform](https://img.shields.io/cocoapods/p/TensorFlowServing-InceptionClient.svg?style=flat)](http://cocoapods.org/pods/TensorFlowServing-InceptionClient)
 
-A simple example of how to build an iOS client for TensorFlow Serving. Hopfully, this will help developers understand
+A simple example of how to build an iOS client for TensorFlow Serving. I hope this project will help developers understand
 how to build clients and be a good starting point for building their own iOS projects.
 
 ## Please Note
