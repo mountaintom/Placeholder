@@ -19,8 +19,8 @@ I have not been able to get it to compile as a Cocoapod, yet. The real project w
  
 ![alt text](https://raw.githubusercontent.com/mountaintom/TensorFlowServing-InceptionClient/master/Screenshot.png "Inception Demo Client")
 
-The production level support iOS support for gRPC and Protocol Buffers is in Objective-C. There is experimental support for Swift. 
-I will try the experimental tools to build a Swift version in addition to this project.
+Production level tools and code for iOS gRPC and Protocol Buffers is available when using Objective-C. There is experimental support for Swift. 
+I will evaluate the experimental tools to build a Swift version in addition to this project.
 
 ## Example
 
